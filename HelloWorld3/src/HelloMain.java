@@ -2,7 +2,13 @@ public class HelloMain {
 
 	public static void main(String[] args) {
 
-		//cool not good
+		// cool not good
+
+		//
+
 	}
 
+	void getComments() {
+
+	}
 }
