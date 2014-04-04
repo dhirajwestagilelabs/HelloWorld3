@@ -4,5 +4,8 @@ public class HelloMain {
 
 		//cool not good
 	}
+	void addComment(){
+		
+	}
 
 }
